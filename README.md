@@ -2,9 +2,9 @@
 Taller logica de programacion en grupos
 
 # PARTE 2
-Código parte 2:
+# Código parte 2:
 <img width="518" height="481" alt="image" src="https://github.com/user-attachments/assets/08879683-76db-4f9a-97e5-d268592a2b16" />
-Resultados:
+# Resultados:
 <img width="252" height="221" alt="image" src="https://github.com/user-attachments/assets/29775970-9367-4c52-8c01-ae6b880154e7" />
 # Preguntas de análisis
 1. ¿Qué diferencia existe entre aplicar lower() y modificar directamente un carácter
