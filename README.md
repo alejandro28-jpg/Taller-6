@@ -1,8 +1,12 @@
 # Taller-6
 Taller logica de programacion en grupos
 
-PARTE 2
-Preguntas de análisis
+# PARTE 2
+Código parte 2:
+<img width="518" height="481" alt="image" src="https://github.com/user-attachments/assets/08879683-76db-4f9a-97e5-d268592a2b16" />
+Resultados:
+<img width="252" height="221" alt="image" src="https://github.com/user-attachments/assets/29775970-9367-4c52-8c01-ae6b880154e7" />
+# Preguntas de análisis
 1. ¿Qué diferencia existe entre aplicar lower() y modificar directamente un carácter
 de la cadena? RT1: La diferencia es que cuando aplico un .lower en el programa, no cambio la lista original, es decir creo otra lista con la modificación del lower.(minúsculas) y modificar directamente un carácter dentro de una lista de forma directa no se puede.  
 2. ¿Por qué split() devuelve una lista y no una tupla? RT2: Porque el split se usa para cambiar un elemento o modificar los elementos existentes, por lo cual devuelve una lista y no una tupla.
