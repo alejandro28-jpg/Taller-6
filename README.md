@@ -1,5 +1,7 @@
 # Taller-6
 Taller logica de programacion en grupos
+
+PARTE 2
 Preguntas de análisis
 1. ¿Qué diferencia existe entre aplicar lower() y modificar directamente un carácter
 de la cadena? RT1: La diferencia es que cuando aplico un .lower en el programa, no cambio la lista original, es decir creo otra lista con la modificación del lower.(minúsculas) y modificar directamente un carácter dentro de una lista de forma directa no se puede.  
