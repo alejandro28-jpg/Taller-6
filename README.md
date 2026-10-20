@@ -3,7 +3,7 @@ Taller logica de programacion en grupos
 
 # PARTE 3
 
-# PRUEBAS PARTE 3:
+# Pruebas parte 3:
 
 
 
